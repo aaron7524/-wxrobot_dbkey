@@ -5,6 +5,11 @@ import hmac
 import hashlib
 import binascii
 import argparse
+
+
+
+
+
 from typing import Tuple
 
 # 第三方加密库 pip install cryptography
